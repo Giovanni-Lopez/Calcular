@@ -1,0 +1,13 @@
+C:\Users\ERASMO ANTONIO ANGEL\source\repos\Calcular\Calcular\bin\Debug\netcoreapp3.1\Calcular.exe
+C:\Users\ERASMO ANTONIO ANGEL\source\repos\Calcular\Calcular\bin\Debug\netcoreapp3.1\Calcular.deps.json
+C:\Users\ERASMO ANTONIO ANGEL\source\repos\Calcular\Calcular\bin\Debug\netcoreapp3.1\Calcular.runtimeconfig.json
+C:\Users\ERASMO ANTONIO ANGEL\source\repos\Calcular\Calcular\bin\Debug\netcoreapp3.1\Calcular.runtimeconfig.dev.json
+C:\Users\ERASMO ANTONIO ANGEL\source\repos\Calcular\Calcular\bin\Debug\netcoreapp3.1\Calcular.dll
+C:\Users\ERASMO ANTONIO ANGEL\source\repos\Calcular\Calcular\bin\Debug\netcoreapp3.1\Calcular.pdb
+C:\Users\ERASMO ANTONIO ANGEL\source\repos\Calcular\Calcular\obj\Debug\netcoreapp3.1\Calcular.csprojAssemblyReference.cache
+C:\Users\ERASMO ANTONIO ANGEL\source\repos\Calcular\Calcular\obj\Debug\netcoreapp3.1\Calcular.AssemblyInfoInputs.cache
+C:\Users\ERASMO ANTONIO ANGEL\source\repos\Calcular\Calcular\obj\Debug\netcoreapp3.1\Calcular.AssemblyInfo.cs
+C:\Users\ERASMO ANTONIO ANGEL\source\repos\Calcular\Calcular\obj\Debug\netcoreapp3.1\Calcular.csproj.CoreCompileInputs.cache
+C:\Users\ERASMO ANTONIO ANGEL\source\repos\Calcular\Calcular\obj\Debug\netcoreapp3.1\Calcular.dll
+C:\Users\ERASMO ANTONIO ANGEL\source\repos\Calcular\Calcular\obj\Debug\netcoreapp3.1\Calcular.pdb
+C:\Users\ERASMO ANTONIO ANGEL\source\repos\Calcular\Calcular\obj\Debug\netcoreapp3.1\Calcular.genruntimeconfig.cache
